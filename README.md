@@ -1,4 +1,4 @@
-# Czwórki
+# Czwórki (Connect Four)
 
 Czwórki (ang. Connect Four) – planszowa gra logiczna dla dwóch osób,
 w której wykorzystuje się planszę o wymiarach 7 x 6 pól. 
