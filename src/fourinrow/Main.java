@@ -13,11 +13,11 @@ public class Main {
     public static int wybor = -1;
 
     //          0 1 2 3 4 5 6 taki jest planowany wyglad planszy :)
-    //      0  [][][][][][][] // DATA ROZPOCZECIA projektu:  01:45:00 17.08.2018r.
-    //      1  [][][][][][][] // proste gui bez wygranej:    02:23:00 17.08.2018r.
-    //      2  [][][][][][][] // testowanie pion i poziom:   02:56:00 17.08.2018r.
-    //      3  [][][][][][][] // test skosów prawy i lewy:   13:40:00 15.10.2018r.
-    //      4  [][][][][][][] // błedy z błednym inputem:    13:04:00 16.10.2018r.
+    //      0  [][][][][][][] // DATA ROZPOCZECIA projektu:  17.08.2018r.
+    //      1  [][][][][][][] // gra, bez wygranej:    17.08.2018r.
+    //      2  [][][][][][][] // testowanie pion i poziom:   17.08.2018r.
+    //      3  [][][][][][][] // test skosów prawy i lewy:   15.10.2018r.
+    //      4  [][][][][][][] // błedy z błednym inputem:    16.10.2018r.
     //      5  [][][][][][][]
 
     public static void main(String[] args) {
